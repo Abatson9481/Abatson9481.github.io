@@ -54,30 +54,13 @@
     color: blue;
     border-radius: 5px;
     padding: 5px;
-    font-size: 150%;
-    font-family: 'Tangerine', serif;
+    font-size: 300%;
+    font-family: 'Tangerine';
     text-align: center;
   }
 
-  .box2{
-    background-color: white;
-    color: pink;
-    border-radius: 5px;
-    padding: 5px;
-    font-size: 80%;
-    font-family: 'Tangerine', serif;
-    text-align: center;  
-  }
+ 
 
-  .box1{
-    background-color: white;
-    color: red;
-    border-radius: 5px;
-    font-size: 150%;
-    font-family: 'Tangerine', serif;
-    text-align: center; 
-    size: 50%; 
-  }
   
   .loading-frame {
     position: absolute;
