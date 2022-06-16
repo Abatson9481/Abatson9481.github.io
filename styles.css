@@ -1,7 +1,7 @@
 .title{
-    color: purple;
+    color: teal;
     font-size: 5em;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Tangerine';
     text-align: center;
 }
 
@@ -24,16 +24,7 @@
     top: 40px;
   }
 
-  .fa-facebook{
-      right: 100px;
-  }
-
-  .fa-instagram{
-      right: 70px;
-      color: fuchsia;
-  }
-
-  .fa-linkedin{
+    .fa-linkedin{
       right: 30px;
   }
 
@@ -55,33 +46,24 @@
   }
 
   .BIO{
-      font-family: 'Indie Flower', cursive;
+      font-family: 'Tangerine', cursive;
       font-size: x-large;
       display: grid;
       grid-template-columns: repeat(4, 800px);
       margin-left: 50px;
   }
 
-  .Contact{
-    font-family: 'Indie Flower', cursive;
-    font-size: x-large;
-    text-align: center;
-    margin-top: auto;
-    left: 30px;
-    position: absolute;
-    top: 50px;
-  }
 
   .PIntro{
     margin-left: 50px;
     margin-right: 50px;
-    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tangerine', serif;
     font-size: x-large;
     text-align: center;
   }
 
 .container{
-    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tangerine', serif;
     font-size: xx-large;
     color: teal;
     display: grid;
@@ -106,7 +88,7 @@
     border-radius: 5px;
     padding: 5px;
     font-size: 150%;
-    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tangerine', serif;
     text-align: center;
   }
 
@@ -116,7 +98,7 @@
     border-radius: 5px;
     padding: 5px;
     font-size: 80%;
-    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tangerine', serif;
     text-align: center;  
   }
 
@@ -125,7 +107,7 @@
     color: teal;
     border-radius: 5px;
     font-size: 150%;
-    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tangerine', serif;
     text-align: center; 
     size: 50%; 
   }
