@@ -1,19 +1,10 @@
 .header{
-    color: teal;
+    color: aqua;
     background-color: black;
     font-size: 4em;
     font-family: 'Tangerine';
     text-align: left;
 }
-
-.linkedin{
-    border-radius: 30%;
-    width: 40px;
-    position: absolute;
-    right: 130px;
-    top: 55px;
-}
-
 
   .iframe{
     display: block;
@@ -23,7 +14,7 @@
 
   .aboutme{
       font-family: 'Tangerine';
-      font-size: large;
+      font-size: xx-large;
       display: grid;
       grid-template-columns: repeat(4, 800px);
       margin-left: 50px;
