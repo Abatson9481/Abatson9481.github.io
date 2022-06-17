@@ -1,5 +1,5 @@
 .header{
-    color: aqua;
+    color: #00BFFF;
     background-color: black;
     font-size: 4em;
     font-family: 'Tangerine';
@@ -50,8 +50,8 @@
   }
   
   .box {
-    background-color: #6A5ACD;
-    color: #00FA9A;
+    background-color: black;
+    color: #FF1493;
     border-radius: 5px;
     padding: 5px;
     font-size: 300%;
