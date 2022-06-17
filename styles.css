@@ -7,7 +7,7 @@
 }
 
  .aboutme{
-      font-family: 'Joan', serif;
+      font-family: 'Lobster', serif;
       font-size: xx-large;
       display: grid;
       grid-template-columns: repeat(4, 800px);
