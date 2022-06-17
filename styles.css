@@ -16,10 +16,7 @@
   }
 
 .profilePic{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  border: 5px solid #555;
   height: 50%;
 }
 
