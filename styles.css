@@ -6,13 +6,7 @@
     text-align: left;
 }
 
-  .iframe{
-    display: block;
-    margin: 0 auto;
-  }
-
-
-  .aboutme{
+ aboutme{
       font-family: 'Tangerine';
       font-size: xx-large;
       display: grid;
@@ -20,6 +14,12 @@
       margin-left: 50px;
   }
 
+.profilePic{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .container{
     font-family: 'Tangerine', serif;
@@ -52,7 +52,10 @@
   }
 
  
-
+ .iframe{
+    display: block;
+    margin: 0 auto;
+  }
   
   .loading-frame {
     position: absolute;
